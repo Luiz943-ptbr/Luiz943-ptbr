@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, Bem Vindos! 👋
+(Perfil em Construção...)
 
-<!--
-**Luiz943-ptbr/Luiz943-ptbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experiências: 🚀
+(Experiências em andamento...)
 
-Here are some ideas to get you started:
+## Técnologias Dominadas: 💻
+![JAVA](https://github.com/get-icon/geticon/raw/master/icons/java.svg) ![HTML5](https://github.com/get-icon/geticon/raw/master/icons/html-5.svg) ![CSS3](https://github.com/get-icon/geticon/raw/master/icons/css-3.svg) ![JAVASCRIPT](https://github.com/get-icon/geticon/raw/master/icons/javascript.svg) ![POSTGRESQL](https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Redes Sociais : 🕊️
+[![INSTAGRAM](https://www.instagram.com/lu__pq/)]
+
+## GitHub Stats:
+(...)
